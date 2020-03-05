@@ -67,4 +67,5 @@ _Table-1: Classifying the predictors_
 
 The dataset comprises of ***13 predictors*** and ***1 outcome variable***. The outcome target is a binary variable: 0 means a person who does not have heart disease, and 1 means a person who has heart disease. Figure-1 and table-1 give basic information about the dataset.
 
+![image] (https://github.com/psamria/Supervised-Machine-Learning-Project--Presence-of-Heart-Disease-in-Patient-/blob/master/2.png)
 	
